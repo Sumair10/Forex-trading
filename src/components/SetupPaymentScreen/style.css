@@ -1,0 +1,56 @@
+.leftHeading {
+  font-size: 40px;
+  margin: 50px 70px;
+  color: white;
+}
+.leftHeadingBottom {
+  font-size: 30px;
+  margin: 0 70px;
+  color: white;
+}
+
+h3,
+h2,
+h4 {
+  color: white;
+  margin: 0%;
+}
+h3{
+    padding: 5px;
+    padding-left: 25px;
+}
+
+h1 {
+  margin-bottom: 0%;
+  font-size: 40px;
+  color: white;
+}
+.head {
+  margin-top: 0%;
+  color: #ee6535;
+}
+p {
+  font-size: 12px;
+  color: rgb(99, 98, 98);
+}
+h5 {
+  color: rgb(191, 191, 191);
+  font-size: 15px;
+  font-weight: 100;
+  margin: 0%;
+  margin-bottom: -13px;
+  margin-top: 5px;
+}
+button {
+  font-size: 11px;
+}
+button:hover {
+  /* background-color: #ee6535; */
+}
+.icon {
+  border: 2px solid rgb(41, 40, 40);
+  background-color: #141415;
+  padding: 9px 10px 3px 10px;
+  border-radius: 50%;
+  margin: 8px;
+}

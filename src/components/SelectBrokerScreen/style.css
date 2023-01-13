@@ -1,0 +1,29 @@
+
+
+.hover1:hover p {
+    background-color: white;
+
+}
+.hover1:hover .in{
+    color: black;
+}
+
+
+.hover2:hover p {
+    background-color: white;
+
+}
+.hover2:hover .h {
+    color: red;
+
+}
+.hover2:hover .in{
+    color: black;
+}
+
+.inputField1 {
+    background:#0c0b0b ;
+    border-color: aliceblue;
+    border-radius: 5px;
+    color: rgb(179, 187, 245) !important;
+  }
